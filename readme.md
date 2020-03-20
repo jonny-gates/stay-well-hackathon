@@ -5,7 +5,7 @@
 
 Our mission is simple: to use our skills as designers, engineers, leaders and general Le Wagon product building rockstars to help volunteer communities support anyone who needs it.
 
-COVID-19 is and will continue to hit the most vulnerable hard. People are amazing. There are already lots of volunteer communities on various social media channels getting together to support those who need it. Any product we submit will:
+COVID-19 is, and will continue, to hit the most vulnerable hard. People are amazing. There are already lots of volunteer communities on various social media channels getting together to support those who need it. Any product we submit will:
 
 - Make the volunteering process more efficient so more people can be helped
 - Make it easier for the organisations to communicate with volunteers and those in need
@@ -17,7 +17,7 @@ Acorn are one such example of a community who are working hard to make sure ever
 
 :two: Database - how can we create a more efficient and compliant version for them?
 
-:three: Phone masking - is there a way we can help safeguard ARIs and volunteers by providing one ‘interconnecting’ phone number that will connect the two?
+:three: Phone masking - is there a way we can help safeguard people in need and volunteers by providing one ‘interconnecting’ phone number that will connect the two?
 
 :four: Jobs board - can we create a better version of this than the google sheet they have currently?
 
@@ -27,11 +27,10 @@ Acorn are one such example of a community who are working hard to make sure ever
 ### What do you need to submit?
 **This bit is important.** You don't have to submit a working prototype - although you're welcome to do so. What we're looking for is great ideas that will help solve the problems above. That means - **you don't need to be a dev to enter!!** This competition is for everyone and anyone who wants to lend their mind to help the community.
 
-The final submission needs to be a video. You can be creative on how you do this. Uploaded on YouTube with the link submitted on the [Google Sheet](https://docs.google.com/spreadsheets/d/1nOCGqcfMDHJQQS5vns02vNqMdzBjqqfrSxoaOkCWHjI/edit?usp=sharing).
+The final submission needs to be a video. You can be creative on how you do this. Upload your entry on YouTube with the link submitted on the [Google Sheet](https://docs.google.com/spreadsheets/d/1nOCGqcfMDHJQQS5vns02vNqMdzBjqqfrSxoaOkCWHjI/edit?usp=sharing).
 
 ### Who can enter?
 Anyone can enter the hackathon (not just the Le Wagon community), the more the better, and each team will require a varied skillset including product management, project management, design, devs and so on!
-
 
 ### When does it take place?
 The competition starts whenever you're ready! The deadline for submissions is **Sunday evening - 10pm**.
