@@ -14,9 +14,13 @@ COVID-19 is and will continue to hit the most vulnerable hard. People are amazin
 Acorn are one such example of a community who are working hard to make sure everyone has what they need. You can see what they're doing now by signing up to the Bristol support group at https://acorntheunion.org.uk/corona/ to go through the current onboarding flow yourself. Also take a look at the google sheet + WhatsApp group.
 
 :one: How do we make this better / more efficient?
+
 :two: Database - how can we create a more efficient and compliant version for them?
+
 :three: Phone masking - is there a way we can help safeguard ARIs and volunteers by providing one ‘interconnecting’ phone number that will connect the two?
+
 :four: Jobs board - can we create a better version of this than the google sheet they have currently?
+
 :five: Wildcard - any idea you might have to help volunteer communities during the outbreak
 
 ## The Format
