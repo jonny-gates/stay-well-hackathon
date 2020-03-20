@@ -27,7 +27,7 @@ Acorn are one such example of a community who are working hard to make sure ever
 ### What do you need to submit?
 **This bit is important.** You don't have to submit a working prototype - although you're welcome to do so. What we're looking for is great ideas that will help solve the problems above. That means - **you don't need to be a dev to enter!!** This competition is for everyone and anyone who wants to lend their mind to help the community.
 
-The final submission needs to be a video. You can be creative on how you do this. Uploaded on YouTube with the link submitted on the Google Sheet.
+The final submission needs to be a video. You can be creative on how you do this. Uploaded on YouTube with the link submitted on the [Google Sheet](https://docs.google.com/spreadsheets/d/1nOCGqcfMDHJQQS5vns02vNqMdzBjqqfrSxoaOkCWHjI/edit?usp=sharing).
 
 ### Who can enter?
 Anyone can enter the hackathon (not just the Le Wagon community), the more the better, and each team will require a varied skillset including product management, project management, design, devs and so on!
@@ -39,7 +39,7 @@ The competition starts whenever you're ready! The deadline for submissions is **
 The judges (TBC) will then review the submissions and then announce the winners on the Slack channel `stay-well-deliveries`. We'll then get in contact with groups about how to progress ideas/ prototypes forward.
 
 ## How can I enter?
-To enter, go to this Google sheet, let us know which challenge you're taking on, your team members (there is no limit but we advise around 5), and then your idea. Please include one point of contact on the sheet.
+To enter, go to this [Google sheet](https://docs.google.com/spreadsheets/d/1nOCGqcfMDHJQQS5vns02vNqMdzBjqqfrSxoaOkCWHjI/edit?usp=sharing), let us know which challenge you're taking on, your team members (there is no limit but we advise around 5), and then your idea. Please include one point of contact on the sheet.
 
 ## Prizes
 The best prize of all - the knowledge that you and your product may get put to good use and help people in need in the community! 🚀
